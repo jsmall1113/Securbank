@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/securbank/:/",
-    "/content/securbank/placeholders:/placeholders.json",
+    "/content/xcel/:/",
+    "/content/xcel/placeholders:/placeholders.json",
     "/graphql:/graphql",
-    "/content/securbank.resource/icons/:/icons/"
+    "/content/xcel/icons/:/icons/"
   ]
 }
